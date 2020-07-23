@@ -15,7 +15,7 @@ Project Report - Documentation of the project
 You can find project demonstration video in given link:
 https://youtu.be/S5jS9Xk6NM8
 
-## Feedback on the internship
+## Feedback On The Internship
 Check this video:
 https://youtu.be/b6_nUMZtcDc
 
